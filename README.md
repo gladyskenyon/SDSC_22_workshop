@@ -1,1 +1,3 @@
 # SDSC_22_workshop
+## Exploring the housing market in Spanish cities 
+Gladys and Juan will take you through an exploratory spatial analysis and market segmentation of property listings data from idealista. The city of focus is Madrid, the capital of Spain. You will create a range of visualuations and maps, and implement an unsupervised machine learning algorithm (k-means), to create clusters of properties. The analysis will be done in Python, every required step of the method is coded for you. If you are comfortable writing Python code, there are optional exersizes to extend the analysis to other cities (Barcelona and Valencia). 
