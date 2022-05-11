@@ -7,7 +7,7 @@ The analysis is done in a jupyter notebook. You will need to bring a laptop to r
 
 ### Locally 
 Follow these [instructions] (https://gdsl-ul.github.io/soft_install/) to install and run Python from your own computer. You will need sufficient storage space. 
-Doing it this way will mean you are set up for future analysis and you can save your work come back to it later!
+Doing it this way will mean you are set up for future analysis and you can save your work and come back to it later!
 
 ### Run online 
-Open in an interactive in-browser environment. On the day there will be a binder link here (interactive in-browser environment). 
+Open in an interactive in-browser environment. On the day there will be a binder link here, you do not need to do anything beforehand. 
