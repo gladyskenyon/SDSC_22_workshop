@@ -9,5 +9,17 @@ The analysis is done in a jupyter notebook. You will need to bring a laptop to r
 Follow these [instructions] (https://gdsl-ul.github.io/soft_install/) to install and run Python from your own computer. You will need sufficient storage space. 
 Doing it this way will mean you are set up for future analysis and you can save your work and come back to it later!
 
+If you want to run the notebook locally, it is recommended to create a new conda environment based on the environment.yml file.
+
+conda env create -f environment.yml
+
+Alternatively, Make sure all the required packages are up to date and available in your environment:
+  - geopandas
+  - contextily
+  - seaborn
+  - pygeos
+  - pysal
+  - scikit-learn
+
 ### Run online 
 Open in an interactive in-browser environment. On the day there will be a binder link here, you do not need to do anything beforehand. Once you close te browser tab your changes will not be saved.
