@@ -11,8 +11,10 @@ Doing it this way will mean you are set up for future analysis and you can save 
 
 If you want to run the notebook locally, it is recommended to create a new conda environment based on the environment.yml file.
 
+```
 conda env create -f environment.yml
-
+}
+```
 Alternatively, Make sure all the required packages are up to date and available in your environment:
   - geopandas
   - contextily
