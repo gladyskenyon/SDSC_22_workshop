@@ -13,7 +13,6 @@ If you want to run the notebook locally, it is recommended to create a new conda
 
 ```
 conda env create -f environment.yml
-
 ```
 Alternatively, Make sure all the required packages are up to date and available in your environment:
   - geopandas
