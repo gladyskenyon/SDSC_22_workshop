@@ -1,0 +1,10 @@
+name: sdsc
+channels:
+  - conda-forge
+dependencies:
+  - geopandas
+  - contextily
+  - seaborn
+  - pygeos
+  - pysal
+  - scikit-learn
