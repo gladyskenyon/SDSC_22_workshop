@@ -6,8 +6,8 @@ Gladys and Juan will take you through an exploratory spatial analysis and market
 The analysis is done in a jupyter notebook. You will need to bring a laptop to run the notebook. You have the option to run it locally or to run it through the internet. 
 
 ### Locally 
-Follow these [instructions](https://gdsl-ul.github.io/soft_install/) to install and run Python from your own computer. You will need sufficient storage space. 
-Doing it this way will mean you are set up for future analysis and you can save your work and come back to it later!
+Follow these [instructions](https://gdsl-ul.github.io/soft_install/) to install and run Python from your own computer. You will need sufficient storage space for the software and data. 
+Doing it this way will mean you are set up for future analysis and you can save your work and come back to it later! 
 
 If you want to run the notebook locally, it is recommended to create a new conda environment based on the environment.yml file.
 
@@ -23,4 +23,4 @@ Alternatively, Make sure all the required packages are up to date and available 
   - scikit-learn
 
 ### Run online 
-Open in an interactive in-browser environment. On the day there will be a binder link here, you do not need to do anything beforehand. Once you close te browser tab your changes will not be saved.
+Open in an interactive in-browser environment. On the day there will be a binder link here, you do not need to do anything beforehand. Once you close the browser tab your changes will not be saved.
