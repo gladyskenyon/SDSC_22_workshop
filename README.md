@@ -1,6 +1,6 @@
 # SDSC_22_workshop (18/05/22)
 ## Exploring the housing market in Spanish cities 
-Gladys and Juan will take you through an exploratory spatial analysis and market segmentation of property listings data from idealista. The city of focus is Madrid, the capital of Spain. You will create a range of visualuations and maps, and implement an unsupervised machine learning algorithm (k-means), to create clusters of properties. The analysis will be done in Python, every required step of the method is coded for you. If you are comfortable writing Python code, there are optional exersises to extend the analysis to other cities (Barcelona and Valencia). 
+Gladys and Juanra will take you through an exploratory spatial analysis and market segmentation of property listings data from idealista. The city of focus is Madrid, the capital of Spain. You will create a range of visualuations and maps, and implement an unsupervised machine learning algorithm (k-means), to create clusters of properties. The analysis will be done in Python, every required step of the method is coded for you. If you are comfortable writing Python code, there are optional exersises to extend the analysis to other cities (Barcelona and Valencia). 
 
 ## Running the notebook 
 The analysis is done in a jupyter notebook. You will need to bring a laptop to run the notebook. You have the option to run it locally or to run it through the internet. 
@@ -24,3 +24,9 @@ Alternatively, Make sure all the required packages are up to date and available 
 
 ### Run online 
 Open in an interactive in-browser environment. On the day there will be a binder link here, you do not need to do anything beforehand. Once you close the browser tab your changes will not be saved.
+
+### Data Source
+Properties listing datasets and spatial segmentation have been brought thanks to [idealista](https://idealista.com).
+
+A detailed explanation of the methodology can be accessed via this _Data in Brief_ [working paper](https://github.com/paezha/idealista18/blob/master/data-in-brief/dib-idealista18.pdf), 
+authored by David Rey Blanco, Pelayo González Arbués, Fernando López Hernández & Antonio Páez.
