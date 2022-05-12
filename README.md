@@ -30,3 +30,6 @@ Properties listing datasets and spatial segmentation have been brought thanks to
 
 A detailed explanation of the methodology can be accessed via this _Data in Brief_ [working paper](https://github.com/paezha/idealista18/blob/master/data-in-brief/dib-idealista18.pdf), 
 authored by David Rey Blanco, Pelayo González Arbués, Fernando López Hernández & Antonio Páez.
+
+### Terms of use
+Use of this dataset is subject to the license CC 4.0, as indicated at https://github.com/paezha/idealista18/blob/master/LICENSE.md
