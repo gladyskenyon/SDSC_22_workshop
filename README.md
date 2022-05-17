@@ -24,6 +24,7 @@ Alternatively, Make sure all the required packages are up to date and available 
 
 ### Run online 
 Open in an interactive in-browser environment. On the day there will be a binder link here, you do not need to do anything beforehand. Once you close the browser tab your changes will not be saved.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fgladyskenyon%2FSDSC_22_workshop/HEAD)
 
 ## Data Source
 Properties listing datasets and spatial segmentation have been brought thanks to [idealista](https://idealista.com/en/).
